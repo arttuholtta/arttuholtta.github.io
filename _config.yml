@@ -1,7 +1,7 @@
 # site settings
 title: Arttu
 subtitle: Hölttä
-description: 
+description: Welcome to my page!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://holtta.art # the base hostname & protocol for your site
 author: Arttu Hölttä
